@@ -68,7 +68,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 
 | **Screen** | **Description** |
 |------------|-----------------|
-| <img src="screenshots/landing.png" width="120"/> | **Loading Screen** - SNCFT welcome interface |
+| <img src="screenshots/landing.png" width="100"/> | **Loading Screen** - SNCFT welcome interface |
 | <img src="screenshots/acceuil.png" width="250"/> | **Welcome Screens** - Feature introduction for stakeholders |
 | <img src="screenshots/register.png" width="250"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
 | <img src="screenshots/otp.png" width="250"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
@@ -89,7 +89,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Dashboard** | <img src="screenshots/dashclient.png" width="200"/> | Activity overview, order statistics, delivery summaries |
 | **Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
 | **Orders** | <img src="screenshots/gererorder.png" width="250"/> | Order tracking, management, history, CRUD operations |
-| **Support** | <img src="screenshots/reclam.png" width="250"/> <img src="screenshots/avis.png" width="200"/> | Complaint submission & service rating system |
+| **Support** | <img src="screenshots/reclam.png" width="250"/> <img src="screenshots/avis.png" width="120"/> | Complaint submission & service rating system |
 
 ### ⚙️ Admin Features
 
