@@ -68,7 +68,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Registration** | <img src="screenshots/register.png" width="250"/> | User signup with personal details |
 | **Company Details** | <img src="screenshots/company.png" width="200"/> | Business information registration |
 | **OTP Verification** | <img src="screenshots/otp.png" width="250"/> | Secure verification and password recovery |
-| **Login** | <img src="screenshots/login.PNG" width="200"/> | Secure authentication portal |
+| **Login** | <img src="screenshots/login.png" width="200"/> | Secure authentication portal |
 
 ### Common Interfaces
 | **Feature** | **Interface** | **Description** |
