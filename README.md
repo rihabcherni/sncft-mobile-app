@@ -107,8 +107,3 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | 📊 Advanced analytics, 🌐 web version |
 | 🌍 Multi-language support, 📈 performance monitoring |
 | 🔐 Enhanced security, additional integrations |
-
----
-
-**Developed for Tunisian railway transport modernization**
-*Transforming freight management through digital innovation and efficient stakeholder collaboration.*
