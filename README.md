@@ -26,7 +26,6 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Testing** | Mocha, Chai |
 | **Tools** | Android Studio, VS Code, Postman, MongoDB Compass |
 
-
 ## Key Features
 
 ### User Roles & Features
@@ -45,8 +44,13 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 - ⚙️ Profile & settings management
 
 ## Quick Start
-- Prerequisites  Flutter SDK ≥3.0.0, Node.js ≥16.0.0, MongoDB ≥5.0.0
-- Setup
+
+### Prerequisites
+- Flutter SDK ≥3.0.0
+- Node.js ≥16.0.0
+- MongoDB ≥5.0.0
+
+### Setup
 | **Backend** | **Frontend** |
 |-------------|--------------|
 | `git clone [repo-url]` | `cd frontend/` |
@@ -57,12 +61,14 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 ## Application Interfaces
 
 ### Authentication & Welcome
-| **Screen** | **Description** |
-|------------|-----------------|
-| <img src="screenshots/landing.png" width="100"/> | **Loading Screen** - SNCFT welcome interface |
-| <img src="screenshots/acceuil.png" width="250"/> | **Welcome Screens** - Feature introduction for stakeholders |
-| <img src="screenshots/register.png" width="250"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
-| <img src="screenshots/otp.png" width="250"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
+| **Feature** | **Interface** | **Description** |
+|-------------|---------------|-----------------|
+| **Loading Screen** | <img src="screenshots/landing.png" width="100"/> | SNCFT welcome interface with branding |
+| **Welcome Screens** | <img src="screenshots/acceuil.png" width="250"/> | Feature introduction for stakeholders |
+| **Registration** | <img src="screenshots/register.png" width="250"/> | User signup with personal details |
+| **Company Details** | <img src="screenshots/company.png" width="200"/> | Business information registration |
+| **OTP Verification** | <img src="screenshots/otp.png" width="250"/> | Secure verification and password recovery |
+| **Login** | <img src="screenshots/login.PNG" width="200"/> | Secure authentication portal |
 
 ### Common Interfaces
 | **Feature** | **Interface** | **Description** |
@@ -73,25 +79,26 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Notifications** | <img src="screenshots/notifications.png" width="120"/> | Important updates & alerts system |
 
 ### Client Features
-| **Function** | **Interface** | **Capabilities** |
-|--------------|---------------|------------------|
+| **Feature** | **Interface** | **Description** |
+|-------------|---------------|-----------------|
 | **Dashboard** | <img src="screenshots/dashclient.png" width="200"/> | Activity overview, order statistics, delivery summaries |
-| **Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
-| **Orders** | <img src="screenshots/gererorder.png" width="280"/> | Order tracking, management, history, CRUD operations |
-| **Support** | <img src="screenshots/reclam.png" width="280"/> <img src="screenshots/avis.png" width="110"/> | Complaint submission & service rating system |
+| **Train Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
+| **Order Management** | <img src="screenshots/gererorder.png" width="280"/> | Order tracking, management, history, CRUD operations |
+| **Complaints** | <img src="screenshots/reclam.png" width="280"/> | Complaint submission and tracking system |
+| **Reviews** | <img src="screenshots/avis.png" width="110"/> | Service rating and feedback system |
 
 ### Admin Features
-| **Management Area** | **Interface** | **Functions** |
-|--------------------|---------------|---------------|
+| **Feature** | **Interface** | **Description** |
+|-------------|---------------|-----------------|
 | **Dashboard** | <img src="screenshots/dashadmin.png" width="200"/> | Global overview of operations, orders, trains, incidents |
-| **Users** | <img src="screenshots/user.png" width="120"/> | User account creation, modification, role assignment |
-| **Trains** | <img src="screenshots/gestiontrain.png" width="250"/> | Route supervision, schedule & capacity management |
+| **User Management** | <img src="screenshots/user.png" width="120"/> | User account creation, modification, role assignment |
+| **Train Management** | <img src="screenshots/gestiontrain.png" width="250"/> | Route supervision, schedule & capacity management |
 
 ### Public Access
-| **Service** | **Interface** | **Access** |
-|-------------|---------------|------------|
+| **Feature** | **Interface** | **Description** |
+|-------------|---------------|-----------------|
 | **Train Schedules** | <img src="screenshots/horairestrains.png" width="200"/> | Public transport timetable consultation |
-| **General Info** | <img src="screenshots/inforGen.png" width="200"/> | SNCFT services, materials, transport conditions |
+| **General Information** | <img src="screenshots/inforGen.png" width="200"/> | SNCFT services, materials, transport conditions |
 
 ## SNCFT Mission & Values
 | **Component** | **Description** |
@@ -101,9 +108,10 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **📋 Services** | Passenger transport, freight transport, maintenance, infrastructure, tech innovation |
 
 ## Future Roadmap
-| **Planned Features** |
-|---------------------|
-| 🤖 AI optimization, 🗺️ real-time geolocation |
-| 📊 Advanced analytics, 🌐 web version |
-| 🌍 Multi-language support, 📈 performance monitoring |
-| 🔐 Enhanced security, additional integrations |
+| **Category** | **Planned Features** |
+|--------------|---------------------|
+| **AI & Analytics** | 🤖 AI optimization, 📊 advanced analytics, 📈 performance monitoring |
+| **Platform Expansion** | 🌐 Web version, 📱 enhanced mobile features |
+| **Localization** | 🌍 Multi-language support, 🌏 regional customization |
+| **Integration** | 🗺️ Real-time geolocation, 🔗 third-party integrations |
+| **Security** | 🔐 Enhanced security protocols, 🛡️ advanced authentication |
