@@ -29,11 +29,6 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Testing** | Mocha, Chai |
 | **Tools** | Android Studio, VS Code, Postman, MongoDB Compass |
 
-## ⚙️ Architecture
-
-```
-📱 Flutter App (MVC) ↔️ 🌐 Express.js API ↔️ 🗄️ MongoDB
-```
 
 ## 🚀 Key Features
 
@@ -52,19 +47,6 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 - 💬 Internal messaging system
 - 📊 Transaction history
 - ⚙️ Profile & settings management
-
-## 📂 Project Structure
-
-```
-sncft-freight-app/
-├── 📱 frontend/           # Flutter app (MVC pattern)
-│   ├── lib/{models,views,controllers,services,config}/
-│   └── test/
-├── 🖥️ backend/            # Node.js API
-│   ├── {models,routes,controllers,middleware,config}/
-│   └── tests/
-└── 📄 docs/
-```
 
 ## 📦 Quick Start
 
@@ -86,43 +68,43 @@ sncft-freight-app/
 
 | **Screen** | **Description** |
 |------------|-----------------|
-| ![Loading](screenshots/landing.png) | **Loading Screen** - SNCFT welcome interface |
-| ![Welcome](screenshots/acceuil.png) | **Welcome Screens** - Feature introduction for stakeholders |
-| ![Register](screenshots/register.png) ![Company](screenshots/company.png) | **Registration** - User signup with company details |
-| ![OTP](screenshots/otp.png) ![Login](screenshots/login.PNG) | **Authentication** - OTP recovery & secure login |
+| <img src="screenshots/landing.png" width="200"/> | **Loading Screen** - SNCFT welcome interface |
+| <img src="screenshots/acceuil.png" width="200"/> | **Welcome Screens** - Feature introduction for stakeholders |
+| <img src="screenshots/register.png" width="200"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
+| <img src="screenshots/otp.png" width="200"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
 
 ### 🔧 Common Interfaces
 
 | **Feature** | **Interface** | **Description** |
 |-------------|---------------|-----------------|
-| **Settings** | ![Settings](screenshots/setting.png) | Theme toggle, language selection, contact info |
-| **Profile** | ![Profile](screenshots/profile.png) | Personal information & profile picture management |
-| **Messaging** | ![Chat](screenshots/chat.png) | Real-time communication between users |
-| **Notifications** | ![Notifications](screenshots/notifications.png) | Important updates & alerts system |
+| **Settings** | <img src="screenshots/setting.png" width="200"/> | Theme toggle, language selection, contact info |
+| **Profile** | <img src="screenshots/profile.png" width="200"/> | Personal information & profile picture management |
+| **Messaging** | <img src="screenshots/chat.png" width="200"/> | Real-time communication between users |
+| **Notifications** | <img src="screenshots/notifications.png" width="200"/> | Important updates & alerts system |
 
 ### 👤 Client Features
 
 | **Function** | **Interface** | **Capabilities** |
 |--------------|---------------|------------------|
-| **Dashboard** | ![Client Dash](screenshots/dashclient.png) | Activity overview, order statistics, delivery summaries |
-| **Schedules** | ![Train Times](screenshots/timeTrain.png) | Train schedule search by station & date |
-| **Orders** | ![Order Mgmt](screenshots/gererorder.png) | Order tracking, management, history, CRUD operations |
-| **Support** | ![Complaints](screenshots/reclam.png) ![Reviews](screenshots/avis.png) | Complaint submission & service rating system |
+| **Dashboard** | <img src="screenshots/dashclient.png" width="200"/> | Activity overview, order statistics, delivery summaries |
+| **Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
+| **Orders** | <img src="screenshots/gererorder.png" width="200"/> | Order tracking, management, history, CRUD operations |
+| **Support** | <img src="screenshots/reclam.png" width="200"/> <img src="screenshots/avis.png" width="200"/> | Complaint submission & service rating system |
 
 ### ⚙️ Admin Features
 
 | **Management Area** | **Interface** | **Functions** |
 |--------------------|---------------|---------------|
-| **Dashboard** | ![Admin Dash](screenshots/dashadmin.png) | Global overview of operations, orders, trains, incidents |
-| **Users** | ![User Mgmt](screenshots/user.png) | User account creation, modification, role assignment |
-| **Trains** | ![Train Mgmt](screenshots/gestiontrain.png) | Route supervision, schedule & capacity management |
+| **Dashboard** | <img src="screenshots/dashadmin.png" width="200"/> | Global overview of operations, orders, trains, incidents |
+| **Users** | <img src="screenshots/user.png" width="200"/> | User account creation, modification, role assignment |
+| **Trains** | <img src="screenshots/gestiontrain.png" width="200"/> | Route supervision, schedule & capacity management |
 
 ### 📋 Public Access
 
 | **Service** | **Interface** | **Access** |
 |-------------|---------------|------------|
-| **Train Schedules** | ![Public Schedule](screenshots/horairestrains.png) | Public transport timetable consultation |
-| **General Info** | ![General Info](screenshots/inforGen.png) | SNCFT services, materials, transport conditions |
+| **Train Schedules** | <img src="screenshots/horairestrains.png" width="200"/> | Public transport timetable consultation |
+| **General Info** | <img src="screenshots/inforGen.png" width="200"/> | SNCFT services, materials, transport conditions |
 
 ## 🌟 SNCFT Mission & Values
 
@@ -134,12 +116,12 @@ sncft-freight-app/
 
 ## 🚀 Future Roadmap
 
-| **Phase** | **Planned Features** |
-|-----------|---------------------|
-| **Phase 1** | 🤖 AI optimization, 🗺️ real-time geolocation |
-| **Phase 2** | 📊 Advanced analytics, 🌐 web version |
-| **Phase 3** | 🌍 Multi-language support, 📈 performance monitoring |
-| **Phase 4** | 🔐 Enhanced security, additional integrations |
+| **Planned Features** |
+|---------------------|
+| 🤖 AI optimization, 🗺️ real-time geolocation |
+| 📊 Advanced analytics, 🌐 web version |
+| 🌍 Multi-language support, 📈 performance monitoring |
+| 🔐 Enhanced security, additional integrations |
 
 ---
 
