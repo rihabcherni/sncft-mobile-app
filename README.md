@@ -5,7 +5,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev/) [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)](https://expressjs.com/)
 
-## 📖 Overview
+## Overview
 
 Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway freight management and optimization**.
 
@@ -19,7 +19,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | ❌ Limited mobile accessibility | ✅ Cross-platform mobile app |
 | ❌ High operational costs | ✅ Cost optimization tools |
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | **Category** | **Technologies** |
 |--------------|------------------|
@@ -30,7 +30,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Tools** | Android Studio, VS Code, Postman, MongoDB Compass |
 
 
-## 🚀 Key Features
+## Key Features
 
 ### User Roles & Features
 
@@ -62,9 +62,9 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | `cp .env.example .env` | `flutter run` |
 | `npm start` | |
 
-## 📱 Application Interfaces
+## Application Interfaces
 
-### 🌟 Authentication & Welcome
+### Authentication & Welcome
 
 | **Screen** | **Description** |
 |------------|-----------------|
@@ -73,7 +73,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | <img src="screenshots/register.png" width="250"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
 | <img src="screenshots/otp.png" width="250"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
 
-### 🔧 Common Interfaces
+### Common Interfaces
 
 | **Feature** | **Interface** | **Description** |
 |-------------|---------------|-----------------|
@@ -82,7 +82,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Messaging** | <img src="screenshots/chat.png" width="200"/> | Real-time communication between users |
 | **Notifications** | <img src="screenshots/notifications.png" width="120"/> | Important updates & alerts system |
 
-### 👤 Client Features
+### Client Features
 
 | **Function** | **Interface** | **Capabilities** |
 |--------------|---------------|------------------|
@@ -91,7 +91,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Orders** | <img src="screenshots/gererorder.png" width="250"/> | Order tracking, management, history, CRUD operations |
 | **Support** | <img src="screenshots/reclam.png" width="250"/> <img src="screenshots/avis.png" width="120"/> | Complaint submission & service rating system |
 
-### ⚙️ Admin Features
+### Admin Features
 
 | **Management Area** | **Interface** | **Functions** |
 |--------------------|---------------|---------------|
@@ -99,14 +99,14 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **Users** | <img src="screenshots/user.png" width="120"/> | User account creation, modification, role assignment |
 | **Trains** | <img src="screenshots/gestiontrain.png" width="250"/> | Route supervision, schedule & capacity management |
 
-### 📋 Public Access
+### Public Access
 
 | **Service** | **Interface** | **Access** |
 |-------------|---------------|------------|
 | **Train Schedules** | <img src="screenshots/horairestrains.png" width="200"/> | Public transport timetable consultation |
 | **General Info** | <img src="screenshots/inforGen.png" width="200"/> | SNCFT services, materials, transport conditions |
 
-## 🌟 SNCFT Mission & Values
+## SNCFT Mission & Values
 
 | **Component** | **Description** |
 |---------------|-----------------|
@@ -114,7 +114,7 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 | **💎 Values** | 🛡️ Security, ⚡ Efficiency, 💡 Innovation, 🌱 Sustainability |
 | **📋 Services** | Passenger transport, freight transport, maintenance, infrastructure, tech innovation |
 
-## 🚀 Future Roadmap
+## Future Roadmap
 
 | **Planned Features** |
 |---------------------|
@@ -125,6 +125,5 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 
 ---
 
-**🇹🇳 Developed with ❤️ for Tunisian railway transport modernization**
-
+**Developed for Tunisian railway transport modernization**
 *Transforming freight management through digital innovation and efficient stakeholder collaboration.*
