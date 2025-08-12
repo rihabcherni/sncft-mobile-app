@@ -8,6 +8,7 @@
 Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway freight management and optimization**.
 
 ### Problem & Solution
+
 | **Current Challenges** | **Our Solution** |
 |------------------------|------------------|
 | ❌ Lack of shipment traceability | ✅ Real-time tracking system |
@@ -76,8 +77,8 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 |--------------|---------------|------------------|
 | **Dashboard** | <img src="screenshots/dashclient.png" width="200"/> | Activity overview, order statistics, delivery summaries |
 | **Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
-| **Orders** | <img src="screenshots/gererorder.png" width="250"/> | Order tracking, management, history, CRUD operations |
-| **Support** | <img src="screenshots/reclam.png" width="250"/> <img src="screenshots/avis.png" width="120"/> | Complaint submission & service rating system |
+| **Orders** | <img src="screenshots/gererorder.png" width="280"/> | Order tracking, management, history, CRUD operations |
+| **Support** | <img src="screenshots/reclam.png" width="280"/> <img src="screenshots/avis.png" width="110"/> | Complaint submission & service rating system |
 
 ### Admin Features
 | **Management Area** | **Interface** | **Functions** |
