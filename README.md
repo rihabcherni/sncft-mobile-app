@@ -68,19 +68,19 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 
 | **Screen** | **Description** |
 |------------|-----------------|
-| <img src="screenshots/landing.png" width="200"/> | **Loading Screen** - SNCFT welcome interface |
-| <img src="screenshots/acceuil.png" width="200"/> | **Welcome Screens** - Feature introduction for stakeholders |
-| <img src="screenshots/register.png" width="200"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
-| <img src="screenshots/otp.png" width="200"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
+| <img src="screenshots/landing.png" width="120"/> | **Loading Screen** - SNCFT welcome interface |
+| <img src="screenshots/acceuil.png" width="250"/> | **Welcome Screens** - Feature introduction for stakeholders |
+| <img src="screenshots/register.png" width="250"/> <img src="screenshots/company.png" width="200"/> | **Registration** - User signup with company details |
+| <img src="screenshots/otp.png" width="250"/> <img src="screenshots/login.PNG" width="200"/> | **Authentication** - OTP recovery & secure login |
 
 ### 🔧 Common Interfaces
 
 | **Feature** | **Interface** | **Description** |
 |-------------|---------------|-----------------|
-| **Settings** | <img src="screenshots/setting.png" width="200"/> | Theme toggle, language selection, contact info |
+| **Settings** | <img src="screenshots/setting.png" width="250"/> | Theme toggle, language selection, contact info |
 | **Profile** | <img src="screenshots/profile.png" width="200"/> | Personal information & profile picture management |
 | **Messaging** | <img src="screenshots/chat.png" width="200"/> | Real-time communication between users |
-| **Notifications** | <img src="screenshots/notifications.png" width="200"/> | Important updates & alerts system |
+| **Notifications** | <img src="screenshots/notifications.png" width="120"/> | Important updates & alerts system |
 
 ### 👤 Client Features
 
@@ -88,16 +88,16 @@ Flutter mobile app with Node.js/Express backend and MongoDB for **SNCFT railway 
 |--------------|---------------|------------------|
 | **Dashboard** | <img src="screenshots/dashclient.png" width="200"/> | Activity overview, order statistics, delivery summaries |
 | **Schedules** | <img src="screenshots/timeTrain.png" width="200"/> | Train schedule search by station & date |
-| **Orders** | <img src="screenshots/gererorder.png" width="200"/> | Order tracking, management, history, CRUD operations |
-| **Support** | <img src="screenshots/reclam.png" width="200"/> <img src="screenshots/avis.png" width="200"/> | Complaint submission & service rating system |
+| **Orders** | <img src="screenshots/gererorder.png" width="250"/> | Order tracking, management, history, CRUD operations |
+| **Support** | <img src="screenshots/reclam.png" width="250"/> <img src="screenshots/avis.png" width="200"/> | Complaint submission & service rating system |
 
 ### ⚙️ Admin Features
 
 | **Management Area** | **Interface** | **Functions** |
 |--------------------|---------------|---------------|
 | **Dashboard** | <img src="screenshots/dashadmin.png" width="200"/> | Global overview of operations, orders, trains, incidents |
-| **Users** | <img src="screenshots/user.png" width="200"/> | User account creation, modification, role assignment |
-| **Trains** | <img src="screenshots/gestiontrain.png" width="200"/> | Route supervision, schedule & capacity management |
+| **Users** | <img src="screenshots/user.png" width="120"/> | User account creation, modification, role assignment |
+| **Trains** | <img src="screenshots/gestiontrain.png" width="250"/> | Route supervision, schedule & capacity management |
 
 ### 📋 Public Access
 
